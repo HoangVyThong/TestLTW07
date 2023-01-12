@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\C#\\DemoMVC\\DemoMVC\\DemoMVC.csproj": {}
+    "D:\\TestBTL\\TestLTW07\\DemoMVC\\DemoMVC.csproj": {}
   },
   "projects": {
-    "D:\\Code\\C#\\DemoMVC\\DemoMVC\\DemoMVC.csproj": {
+    "D:\\TestBTL\\TestLTW07\\DemoMVC\\DemoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\C#\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
+        "projectUniqueName": "D:\\TestBTL\\TestLTW07\\DemoMVC\\DemoMVC.csproj",
         "projectName": "DemoMVC",
-        "projectPath": "D:\\Code\\C#\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
+        "projectPath": "D:\\TestBTL\\TestLTW07\\DemoMVC\\DemoMVC.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\C#\\DemoMVC\\DemoMVC\\obj\\",
+        "outputPath": "D:\\TestBTL\\TestLTW07\\DemoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

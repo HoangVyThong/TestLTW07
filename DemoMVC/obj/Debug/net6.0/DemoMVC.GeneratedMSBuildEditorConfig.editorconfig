@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DemoMVC
 build_property.RootNamespace = DemoMVC
-build_property.ProjectDir = D:\Code\C#\DemoMVC\DemoMVC\
+build_property.ProjectDir = D:\TestBTL\TestLTW07\DemoMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Code\C#\DemoMVC\DemoMVC
+build_property.MSBuildProjectDirectory = D:\TestBTL\TestLTW07\DemoMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Code/C\#/DemoMVC/DemoMVC/Views/Home/demo.cshtml]
+[D:/TestBTL/TestLTW07/DemoMVC/Views/Home/demo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkZW1vLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/C\#/DemoMVC/DemoMVC/Views/Home/Index.cshtml]
+[D:/TestBTL/TestLTW07/DemoMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/C\#/DemoMVC/DemoMVC/Views/Home/Privacy.cshtml]
+[D:/TestBTL/TestLTW07/DemoMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/C\#/DemoMVC/DemoMVC/Views/Shared/Error.cshtml]
+[D:/TestBTL/TestLTW07/DemoMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/C\#/DemoMVC/DemoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/TestBTL/TestLTW07/DemoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/C\#/DemoMVC/DemoMVC/Views/Test/Abc.cshtml]
+[D:/TestBTL/TestLTW07/DemoMVC/Views/Test/Abc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxBYmMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/C\#/DemoMVC/DemoMVC/Views/Test/Index.cshtml]
+[D:/TestBTL/TestLTW07/DemoMVC/Views/Test/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/C\#/DemoMVC/DemoMVC/Views/_ViewImports.cshtml]
+[D:/TestBTL/TestLTW07/DemoMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/C\#/DemoMVC/DemoMVC/Views/_ViewStart.cshtml]
+[D:/TestBTL/TestLTW07/DemoMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/C\#/DemoMVC/DemoMVC/Views/Shared/_Layout.cshtml]
+[D:/TestBTL/TestLTW07/DemoMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hzgfhw30l6
