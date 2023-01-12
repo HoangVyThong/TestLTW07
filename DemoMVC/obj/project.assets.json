@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\QTvn\\Documents\\GitHub\\TestLTW07\\DemoMVC\\DemoMVC.csproj",
+      "projectUniqueName": "D:\\TestBTL\\TestLTW07\\DemoMVC\\DemoMVC.csproj",
       "projectName": "DemoMVC",
-      "projectPath": "C:\\Users\\QTvn\\Documents\\GitHub\\TestLTW07\\DemoMVC\\DemoMVC.csproj",
+      "projectPath": "D:\\TestBTL\\TestLTW07\\DemoMVC\\DemoMVC.csproj",
       "packagesPath": "C:\\Users\\QTvn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\QTvn\\Documents\\GitHub\\TestLTW07\\DemoMVC\\obj\\",
+      "outputPath": "D:\\TestBTL\\TestLTW07\\DemoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
